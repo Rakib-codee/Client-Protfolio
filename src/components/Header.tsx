@@ -59,8 +59,9 @@ export default function Header() {
         <div className="flex items-center gap-4">
           <ThemeToggle />
           <a
-            href="/resume/cv.pdf"
-            download
+            href="https://drive.google.com/uc?export=download&id=1wA1x0t9TRvTbFVJ97zSSsn8EylAjxiC3"
+            target="_blank"
+            rel="noopener noreferrer"
             className="hidden sm:inline-flex items-center gap-2 px-4 py-2 rounded-full bg-gradient-to-r from-coral to-sky text-white text-sm font-semibold hover:opacity-90 transition-opacity"
           >
             <svg className="w-4 h-4" fill="none" stroke="currentColor" viewBox="0 0 24 24">
@@ -120,8 +121,9 @@ export default function Header() {
             </a>
           ))}
           <a
-            href="/resume/cv.pdf"
-            download
+            href="https://drive.google.com/uc?export=download&id=1wA1x0t9TRvTbFVJ97zSSsn8EylAjxiC3"
+            target="_blank"
+            rel="noopener noreferrer"
             className="block mt-2 py-3 text-center rounded-full bg-gradient-to-r from-coral to-sky text-white font-semibold"
           >
             Download Resume
