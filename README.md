@@ -9,7 +9,7 @@
 [![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-4-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)](https://tailwindcss.com/)
 [![Framer Motion](https://img.shields.io/badge/Framer_Motion-11-FF0055?style=for-the-badge&logo=framer&logoColor=white)](https://www.framer.com/motion/)
 
-[🌐 Live Demo](https://your-portfolio.vercel.app) · [📝 Report Bug](https://github.com/yourusername/portfolio/issues) · [💡 Request Feature](https://github.com/yourusername/portfolio/issues)
+[🌐 Live Demo]([https://your-portfolio.vercel.app](https://client-protfolio-seven.vercel.app/)) · [📝 Report Bug](https://github.com/yourusername/portfolio/issues) · [💡 Request Feature](https://github.com/yourusername/portfolio/issues)
 
 </div>
 
